@@ -194,6 +194,9 @@ Release 2.8.0 - UNRELEASED
     command line. (Inigo Goiri, Kenji Kikushima and Junping Du 
     via junping_du)
 
+    YARN-3866. AM-RM protocol changes to support container resizing. (Meng Ding
+    via jianhe)
+
   IMPROVEMENTS
 
     YARN-644. Basic null check is not performed on passed in arguments before
